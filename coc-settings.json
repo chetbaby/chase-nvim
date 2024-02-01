@@ -1,0 +1,7 @@
+{
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextCurrentLineOnly": false,
+  "suggest.autoTrigger": "none",
+    "suggest.timeout": 1,
+    "diagnostic.enable": false
+}
